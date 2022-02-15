@@ -1,0 +1,15 @@
+{
+  "keypath": {
+    "mandatoryStringKey": "stringValue",
+    "mandatoryIntKey": 1,
+    "mandatoryDoubleKey": 1.2,
+    "mandatoryBoolKey": true,
+    "mandatoryCustomJSONObjectKey": {
+      "stringKey": "stringValue",
+      "integerKey": 1,
+      "doubleKey": 1.2,
+      "boolKey": true
+    },
+    "mandatoryEnum": "one"
+  }
+}
